@@ -1,0 +1,14 @@
+.containerimage{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 30px;
+
+}
+img {
+  filter: grayscale(100%);
+}
+img:hover{
+  filter: grayscale(0%);
+}
+
